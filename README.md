@@ -1,4 +1,4 @@
-# Django Voucher App
+# Liven Voucher App
 
 This Django app allows you to manage Liven vouchers and their associated restaurant details.
 
