@@ -1,6 +1,6 @@
 # Django Voucher App
 
-This Django app allows you to manage vouchers and their associated restaurant details.
+This Django app allows you to manage Liven vouchers and their associated restaurant details.
 
 ## Setup Instructions
 
@@ -51,12 +51,6 @@ This Django app allows you to manage vouchers and their associated restaurant de
     ```
 
 7. Open your browser and navigate to [http://localhost:8000/admin/](http://localhost:8000/admin/) to log in with the superuser credentials.
-
-## Usage
-
-### API Endpoints
-
-- List all vouchers with restaurant details: [http://localhost:8000/api/vouchers/](http://localhost:8000/api/vouchers/)
 
 ### Django Admin
 
